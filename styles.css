@@ -1,0 +1,58 @@
+h1{
+  color: #454545;
+  font-size: 40px;
+  font-family: 'Bungee Outline', cursive;
+  display: flex;
+  justify-content: center;
+  /* margin-top: 20px; */
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.header{
+  border: 5px grey;
+  background-image: url("http://charliesgarage.technobabble.com.au/wp-content/uploads/sites/22/2018/06/the-state-of-changing-gradients-with-css-transitions-and-animations-7.gif");
+  background-repeat: repeat;
+  background-size: 100%;
+  /* margin-top: 20px; */
+}
+
+.choose{
+
+
+
+}
+
+.truthbutton{
+  font-size: 100px;
+  font-family: 'Anton', sans-serif;
+  border-radius: 50px;
+  color: white;
+  background-color: #F78F07;
+  margin-bottom: 70px;
+}
+
+/* .game{ */
+  /* dislay: flex; */
+  /* border: 5px grey;
+  color: #454545;
+  font-size: 40px;
+  font-family: 'Bungee Outline', cursive; */
+  /* display: flex;
+  justify-content: center; */
+/* } */
+
+.darebutton{
+  font-size: 100px;
+  font-family: 'Anton', sans-serif;
+  border-radius: 50px;
+  color: white;
+  background-color: #454545;
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+body{
+  background-color: #A6C0D1;
+
+}
